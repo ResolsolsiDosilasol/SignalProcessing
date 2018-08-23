@@ -36,8 +36,5 @@ end
 
 NegExpSig = neg_e;
 
-% t = 1:t;
-% NegExpSig = [zeros(1, 100), A .* exp(-t ./ tau)];
-% % NegExpSig = A .* exp((20-t) ./ tau);
 end
 
